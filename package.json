@@ -1,0 +1,16 @@
+{
+  "name": "ds-json-patch-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cola": "git://github.com/cujojs/cola.git#document-sync",
+    "ws": "~0.4.31",
+    "express": "~3.4.8"
+  }
+}
